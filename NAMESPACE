@@ -2,7 +2,3 @@
 
 # Exported functions
 export(calculate_ABratio, df_read_counts, process_samples)
-
-# Imported functions from other packages
-importFrom(ggplot2, dplyr, BiocManager, stats, readr)
-
