@@ -1,0 +1,14 @@
+Package: IBAid
+Title: Interval-based Allelic Imbalance Detection Method
+Version: 1.0.0
+Authors@R: 
+    person("Mona", "Arabzadeh", , "arabzadeh.mona@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Calculate AB ratio and confidence interval (CI) of allele counts A,B based on propagation of uncertainties for depth calculation; and decide on Imbalance/Balance phenotype of each gene in each sample.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Imports: ggplot2, dplyr, BiocManager, stats, readr
+Depends: ggplot2, dplyr, BiocManager, stats, readr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
