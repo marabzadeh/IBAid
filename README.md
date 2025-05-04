@@ -24,5 +24,5 @@ IBAid_test.R includes guides to how to use the method and read the output. The i
 ## Authors
 * **Mona Arabzadeh**
 
-* ## Acknowledgments
+## Acknowledgments
 * [Khiabanian Lab](https://khiabanian-lab.org)
