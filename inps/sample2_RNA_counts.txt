@@ -1,0 +1,5 @@
+gene_id	a_count	b_count
+geneA	10	50
+geneB	40	40
+geneC	30	70
+geneD	50	50

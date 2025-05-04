@@ -1,0 +1,5 @@
+Gene	AB	SE	BI	VRna	A-Rna	B-Rna	DRna	VDna	A-Dna	B-Dna	DDna
+geneA	1	0.84	0	0.17	10	50	60	0.17	10	50	60
+geneB	1	0.65	0	0.5	40	40	80	0.5	40	40	80
+geneC	1	0.54	0	0.3	30	70	100	0.3	30	70	100
+geneD	1	0.58	0	0.5	50	50	100	0.5	50	50	100
