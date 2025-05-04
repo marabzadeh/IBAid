@@ -21,7 +21,7 @@ IBAid::process_samples(samples, input_rna, input_dna, output_dir,
                        z=1.96, ABminCut=1, ABminCut_noCI=0.6, Threshold = 10 )
 ## This will generate an output in the outs folder for each sample
 
-## Output parameters (for each gene in each samples):
+## Output parameters (for each gene in each sample):
 # Gene == Name of the gene
 # AB == The relative expression of Allele A counts on Allele B counts
 # SE == The confidence interval calculated by the method 
